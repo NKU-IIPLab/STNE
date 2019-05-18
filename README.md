@@ -16,7 +16,7 @@ If you find STNE is helpful to your research, please consider citing:
   author    = {Jie Liu and Zhicheng He and Lai Wei and Yalou Huang},  
   title     = {Content to Node: Self-Translation Network Embedding},  
   booktitle = {Proceedings of the 25th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&} Data Mining, {KDD} 2018, London, UK, August 19-23, 2018},  
-  pages     = {1794--1802},
-  year      = {2018}  
+  pages     = {1794--1802},  
+  year      = {2018},  
   doi       = {10.1145/3219819.3219988}  
 }
