@@ -2,7 +2,7 @@
 
 Source code of the paper "Content to Node: Self-Translation Network Embedding, KDD 2018."
 
-Code Entrance: 
+Code Entrance: main.py for STNE and STNEConv.py for STNE-CNN
 
 The project is developed with Python 3.6.4, TenserFlow 1.
 
